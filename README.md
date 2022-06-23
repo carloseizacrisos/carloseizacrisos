@@ -1,4 +1,4 @@
-Carlos // Izac // 1 E
+<i>Carlos // Izac // 1 E</i>
 
 
 Alunos da escola João de faria pioli
