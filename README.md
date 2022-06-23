@@ -13,13 +13,7 @@ body {
 </style>
 <body>
 
-<span style='font-size:100px;'>&#128076;</span>
-<p>I will display &#128076;</p>
-<p>I will display &#x1F44C;</p>
-
-</body>
-</html>
-</i>
+<span style='font-size:100px;'>&#128076;</span> </i>
 
 
 <i>2007</i>
