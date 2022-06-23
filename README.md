@@ -16,4 +16,4 @@
 <i>cursando o ensino médio</i>
 <span style='font-size:100px;'>&#129299;</span>
 
-<img src="https://br.web.img3.acsta.net/newsv7/22/05/09/16/43/4418983.jpg"
+<img src="https://br.web.img3.acsta.net/newsv7/22/05/09/16/43/4418983.jpg" alt="imagem 1 da minha página">
