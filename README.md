@@ -1,13 +1,13 @@
-<i>Carlos // Izac // 1 E</i>
+<b>Carlos // Izac // 1 E</b>
 
 
-Alunos da escola João de faria pioli
-
-<br/>
-<b>Hackers 😎👌</b>
+<i>Alunos da escola João de faria pioli</i>
 
 
-2007
+<i>Hackers 😎👌</i>
 
 
-cursando o ensino médio
+<i>2007</i>
+
+
+<i>cursando o ensino médio</i>
