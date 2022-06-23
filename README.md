@@ -4,12 +4,13 @@
 <i>Alunos da escola João de faria pioli</i>
 
 
-<i>Hackers<!DOCTYPE html>
+<i>Hackers <!DOCTYPE html>
 <html>
 <style>
 body {
-  font-size: 20px;
-} </i>
+}
+</style>
+<body> </i>
 
 
 <i>2007</i>
