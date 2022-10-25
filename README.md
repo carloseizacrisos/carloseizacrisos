@@ -1,4 +1,4 @@
-<b>Carlos // Izac // 1 E</b>
+<b>Carlos // Izac // Vinicius 1 E</b>
 
 
 <i>Alunos da escola João de faria pioli</i>
